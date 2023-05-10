@@ -1,16 +1,5 @@
 # roll_dice_app
 
-A new Flutter project.
+A basic dice roll mobile app to learn the basics of flutter. The user can press roll dice button and then it gets a random dice. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/RolandMarton/flutter-dice_roll_app/assets/88943189/9550d767-71dd-41f5-b5c4-56701618d1ae" width=25% />
